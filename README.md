@@ -1,5 +1,5 @@
 ### Olá ! Me chamo Pedro Henrique 🤙
-#### Formado em Analise e Desenvolvimento de Sistemas, apaixonado por Tecnologias e Lutas ! Odeio café 😆☕
+#### Formado em Analise e Desenvolvimento de Sistemas, apaixonado por Tecnologias e Lutas !
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_hlv/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-lopes-vieira-9355011a1/)
